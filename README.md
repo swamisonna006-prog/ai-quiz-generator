@@ -13,5 +13,4 @@ As you proceed through the quiz, the application acts as an intelligent, one-on-
 ## ⚙️ How we built it
 The frontend was engineered utilizing Vanilla HTML, semantic CSS, and component-based JavaScript to remain completely lightweight. We introduced a modern "glassmorphic" aesthetic with animated mesh gradients and customized native scrollbars, making the educational environment feel premium and immersive. The robust backend intelligence is powered exclusively by the **Google Gemini-Flash API**. By utilizing advanced, tightly-structured prompt engineering and JSON-array parsing, we orchestrate the AI to dynamically assign core curriculum concepts and draft encouraging, student-friendly explanations on the fly.
 
-## 🚀 What's next
-Looking ahead, we plan to implement full, native PDF and Docx drag-and-drop parsing, integrate local browser storage to track longitudinal student progress across multiple sessions, and automatically generate evolving study plans.
+
